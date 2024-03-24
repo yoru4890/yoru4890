@@ -23,6 +23,6 @@ Programming
 Games made
 
 ```
-1. DirectX_PONG         (Finished)
-2. UnrealEngine_PONG    (In progress)
+1. DirectX_PONG        (Finished)
+2. DirectX_Tetris      (In progress)
 ```
