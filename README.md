@@ -25,5 +25,5 @@ Games made
 ```
 1. DirectX_PONG        (Finished)
 2. DirectX_Tetris      (Finished)
-3. UnrealEngine_Furi   (In progress)
+3. UnrealEngine_Soulslike   (In progress)
 ```
